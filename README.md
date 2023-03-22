@@ -36,10 +36,10 @@
 Below are the Projects that I have made from scratch (no help, only used documentation, stackoverflow & previous code), did all the problem solving on my own so I could Proudly say that I made these.
 ## Flutter
 ### Main
-- Fleet Tracking [Stuff used: Google Maps, Firebase]
-- SendLinks (Linktree Clone) [Stuff used: Firebase]
-- Notes & Todo [Stuff Used: Rive(animations), Firebase]
-- Anime Database (incomplete)[Apis, Firebase]
+- [Fleet Tracking](https://github.com/farhat-abbas69/fleet_tracking) [Stuff used: Google Maps, Firebase]
+- [SendLinks](https://github.com/farhat-abbas69/sendlinks-flutter) (Linktree Clone) [Stuff used: Firebase]
+- [Notes & Todo](https://github.com/farhat-abbas69/notes_todo_app_firebase) [Stuff Used: Rive(animations), Firebase]
+- [Anime Database](https://github.com/farhat-abbas69/anime_database_flutter) (incomplete)[Apis, Firebase]
 - Quiz App (Firebase, provider)
 - E-Commerce Store (incomplete) (...)
 ### Simple
@@ -52,7 +52,7 @@ Below are the Projects that I have made from scratch (no help, only used documen
 [<img alt="Flutter" width="500px" src="./img/flutter-course.png" style="padding-right:10px;" />](https://learn.iqracity.org/pluginfile.php/1/tool_certificate/issues/1667543460/7061247537FA.pdf)
 
 ## Python
-- Hotel Management System (tkinter + SQLserver)
+- [Hotel Management System](https://github.com/farhat-abbas69/Hotel-Management-Tkinter) (tkinter + SQLserver)
 - Blog Web App (Flask + SQLite + RESTFUL API) 
 - RESTFUL API (Coffee API)
 - Linkedin Auto Job Applier Bot (Selenium)
@@ -64,8 +64,8 @@ Below are the Projects that I have made from scratch (no help, only used documen
 [<img alt="Python" width="500px" src="./img/python-course.png" style="padding-right:10px;" />](https://www.hackerrank.com/certificates/c5270db38af4)
 
 ## Front-End
-- Aesthetic Dashboard
-- SendLinks (React + Firebase)
+- [Aesthetic Dashboard](https://github.com/farhat-abbas69/aesthetic-dashboard)
+- [SendLinks](https://github.com/farhat-abbas69/send-links-react) (React + Firebase)
 - Music Player
 - Landing Page (ongoing)
 
