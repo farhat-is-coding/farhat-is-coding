@@ -1,6 +1,7 @@
 # Howdy, I'm Farhat 👋 
 
-[![Linkedin Profile](https://pngimg.com/uploads/linkedIn/linkedIn_PNG12.png)](linkedin)
+[![Linkedin Profile](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)](linkedin)
+
 [![Website In Progress]()]()
 
 
