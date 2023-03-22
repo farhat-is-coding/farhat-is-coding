@@ -20,6 +20,7 @@
 [<img align="left" alt="Flutter" width="26px" height="26px" src="./img/flutter-icon.png" style="padding-right:10px;" />]()
 [<img align="left" alt="Python" width="26px" height="26px" src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" style="padding-right:10px;" />]()
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]()
+[<img align="left" alt="firebase" width="26px" src="https://img.icons8.com/color/256/firebase.png" style="padding-right:10px;" />]()
 [<img align="left" alt="Django" width="26px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" style="padding-right:10px;" />]()
 [<img align="left" alt="Dart" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" style="padding-right:10px;" />]()
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]()
@@ -63,10 +64,12 @@ Below are the Projects that I have made from scratch (no help, only used documen
 [<img alt="Python" width="500px" src="./img/python-course.png" style="padding-right:10px;" />](https://www.hackerrank.com/certificates/c5270db38af4)
 
 ## Front-End
+- Aesthetic Dashboard
+- SendLinks (React + Firebase)
+- Music Player
+- Landing Page (ongoing)
+
 [<img alt="Front-End" width="500px" src="./img/front-end-course.png" style="padding-right:10px;" />](https://coursera.org/verify/professional-cert/XA7NYXKEXC6F)
-
-
-
 
 
 
