@@ -10,9 +10,9 @@
 ## Connect with me:
 <img width=250px src= "https://media3.giphy.com/media/8kNXP2sk7e6e4/giphy.gif"/>
 
-[![website](./img/linkedin-dark.svg)](linkedin)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/farhat-abbas/)
 &nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](instagram)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/_radbae_/)
 
 
 
@@ -72,8 +72,3 @@ Below are the Projects that I have made from scratch (no help, only used documen
 [<img alt="Front-End" width="500px" src="./img/front-end-course.png" style="padding-right:10px;" />](https://coursera.org/verify/professional-cert/XA7NYXKEXC6F)
 
 
-
-
-
-[linkedin]: https://www.linkedin.com/in/farhat-abbas/
-[instagram]: https://www.instagram.com/_radbae_/
