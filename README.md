@@ -22,7 +22,6 @@
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]()
 [<img align="left" alt="firebase" width="26px" src="https://img.icons8.com/color/256/firebase.png" style="padding-right:10px;" />]()
 [<img align="left" alt="Django" width="26px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" style="padding-right:10px;" />]()
-[<img align="left" alt="Dart" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" style="padding-right:10px;" />]()
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]()
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />]()
 [<img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]()
