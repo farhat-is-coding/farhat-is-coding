@@ -8,7 +8,6 @@
 - 🎓 Computer Science undergrad at Air University. (2020-2024)  
 
 ## Connect with me:
-<img width=250px src= "https://media3.giphy.com/media/8kNXP2sk7e6e4/giphy.gif"/>
 
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/farhat-abbas/)
 &nbsp;&nbsp;
@@ -33,13 +32,26 @@
 
 # Highlights
 Below are the Projects that I have made from scratch (no help, only used documentation, stackoverflow & previous code), did all the problem solving on my own so I could Proudly say that I made these.
+
+## Angular
+I learnt Angular this summer and I absolutely love it.
+- [Ice Cream Web Store](https://github.com/xizzax/angular-ecommerce-website) [Collabed with my friend, Services, Lazy Loading, Stripe, Express server MVC structure, Angular CDK, Tailwind + DaisyUI, aesthetic, Animations]
+- [deployment](https://xizzax.github.io/angular-ecommerce-website/)
+- [Kanban Boards App](https://github.com/farhat-is-coding/board-app) [Angular CDK, DaisyUI + Tailwind, local storage]
+- [deployment](https://farhat-is-coding.github.io/board-app/)
+- Next Knock (can't share because it has sensitive data but ill add the deployed link once the website is live) [Django + Angular, used httpClient used to interact with backend]
+- [Game Hunter](https://github.com/farhat-is-coding/game-hunter) [Used rawg.io API to fetch games data, used services, detailed routing]
+- [deployment](https://farhat-is-coding.github.io/game-hunter/)
+- [Zelda](https://github.com/farhat-is-coding/zelda)(incomplete, having issue with its api, there are no images)
+
 ## Flutter
 ### Main
-- [Fleet Tracking](https://github.com/farhat-abbas69/fleet_tracking) [Stuff used: Google Maps, Firebase]
-- [SendLinks](https://github.com/farhat-abbas69/sendlinks-flutter) (Linktree Clone) [Stuff used: Firebase]
-- [Notes & Todo](https://github.com/farhat-abbas69/notes_todo_app_firebase) [Stuff Used: Rive(animations), Firebase]
-- [Anime Database](https://github.com/farhat-abbas69/anime_database_flutter) (incomplete)[Apis, Firebase]
-- Quiz App (Firebase, provider)
+- [Nikes](https://github.com/farhat-is-coding/block_chain_app) [Stuff Used: Integrating Express Server with this App & Made UI Too, 1st paid flutter project, 14 screens]
+- [Fleet Tracking](https://github.com/farhat-is-coding/fleet_tracking) [Stuff used: Google Maps, Firebase]
+- [SendLinks](https://github.com/farhat-is-coding/sendlinks-flutter) (Linktree Clone) [Stuff used: Firebase]
+- [Notes & Todo](https://github.com/farhat-is-coding/notes_todo_app_firebase) [Stuff Used: Rive(animations), Firebase, Getx Framework]
+- [Comic Hub](https://github.com/farhat-is-coding/comic_hub) [Getx, APIs]
+- [Anime Database](https://github.com/farhat-is-coding/anime_database_flutter) (incomplete)[Apis, Firebase]
 - E-Commerce Store (incomplete) (...)
 ### Simple
 - Spotify UI Clone
@@ -51,7 +63,8 @@ Below are the Projects that I have made from scratch (no help, only used documen
 [<img alt="Flutter" width="500px" src="./img/flutter-course.png" style="padding-right:10px;" />](https://learn.iqracity.org/pluginfile.php/1/tool_certificate/issues/1667543460/7061247537FA.pdf)
 
 ## Python
-- [Hotel Management System](https://github.com/farhat-abbas69/Hotel-Management-Tkinter) (tkinter + SQLserver)
+- [Marks D&C](https://github.com/farhat-is-coding/AI-DIP_Marks-DC) [ML/YOLO Model/OCR]
+- [Hotel Management System](https://github.com/farhat-is-coding/Hotel-Management-Tkinter) (tkinter + SQLserver)
 - Blog Web App (Flask + SQLite + RESTFUL API) 
 - RESTFUL API (Coffee API)
 - Linkedin Auto Job Applier Bot (Selenium)
@@ -63,8 +76,8 @@ Below are the Projects that I have made from scratch (no help, only used documen
 [<img alt="Python" width="500px" src="./img/python-course.png" style="padding-right:10px;" />](https://www.hackerrank.com/certificates/c5270db38af4)
 
 ## Front-End
-- [Aesthetic Dashboard](https://github.com/farhat-abbas69/aesthetic-dashboard)
-- [SendLinks](https://github.com/farhat-abbas69/send-links-react) (React + Firebase)
+- [Aesthetic Dashboard](https://github.com/farhat-is-coding/aesthetic-dashboard)
+- [SendLinks](https://github.com/farhat-is-coding/send-links-react) (React + Firebase)
 - Music Player
 - Landing Page (ongoing)
 
