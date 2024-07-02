@@ -1,30 +1,36 @@
-## I’m a Seasoned Full Stack Developer 
+# Hi, I'm Farhat Abbas! 👋
 
+I'm a passionate Software Engineer with a knack for developing dynamic and responsive web and mobile applications. With extensive experience in full stack development, I thrive on creating seamless user experiences and robust backend solutions.
 
-## Connect with me
+## 🚀 What I Do:
+- Crafting intuitive and interactive UIs with **React.js** and **Flutter**.
+- Building scalable and efficient backend services with **Node.js** and **Spring Boot**.
+- Leveraging cloud platforms like **AWS** and **GCP** to deploy and manage applications.
+- Ensuring code quality and smooth collaboration using **Git** and **GitHub**.
 
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/farhat-abbas/)
-&nbsp;&nbsp;
+## 🌟 My Journey:
+At Beyond Technologies, I led the development of a feature-rich Flutter app, seamlessly integrating it with an Express backend. My role involved everything from designing user interfaces to optimizing database queries and setting up CI/CD pipelines. I also explored cross-platform development frameworks like React Native and Xamarin, constantly seeking the best tools to enhance user experiences.
 
+## 🔧 Skills & Technologies:
+- **Languages**: TypeScript, JavaScript, Java
+- **Frontend**: React.js, Next.js, Flutter
+- **Backend**: Node.js, Express.js, Spring Boot
+- **Databases**: PostgreSQL, MySQL, MongoDB, Firebase
+- **Cloud**: AWS (DynamoDB, RDS, S3), GCP, Stripe, Twilio
+- **Tools**: Docker, Git, GitHub, JIRA
 
+## 📚 Continuous Learning:
+I believe in continuous learning and staying updated with the latest trends in technology. I'm always experimenting with new frameworks and tools to deliver the best solutions.
 
-## Languages & Tools
-[<img align="left" alt="Angular" width="26px" src="https://angular.io/assets/images/logos/angular/angular.png" style="padding-right:10px;"/>]()
-[<img align="left" alt="Flutter" width="26px" height="26px" src="./img/flutter-icon.png" style="padding-right:10px;" />]()
-[<img align="left" alt="Python" width="26px" height="26px" src="https://static.vecteezy.com/system/resources/previews/012/697/295/original/3d-python-programming-language-logo-free-png.png" style="padding-right:10px;" />]()
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="firebase" width="26px" src="https://img.icons8.com/color/256/firebase.png" style="padding-right:10px;" />]()
-[<img align="left" alt="Django" width="26px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" style="padding-right:10px;" />]()
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]()
-[<img align="left" alt="Flask" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/flask-51-285137.png?f=webp&w=256" style="padding-right:10px;" />]()
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />]()
-<br/>
-<br/>
+## 🌐 Professional Projects & Contributions:
+- [Venminder](https://www.venminder.com): Vendor risk management platform using Java, Spring Boot, React, and Next.js.
+- [Equifax](https://www.equifax.com): Enhanced consumer credit information platform with Java, Spring Boot, Next.js, and more.
 
+## 💬 Get in Touch:
+I'm always open to discussing new projects, collaborations, or just chatting about tech. Feel free to reach out!
 
-  
+📧 [farhat.abbas3500@gmail.com](mailto:farhat.abbas3500@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/farhat-abbas)
 
+---
 
+Let's build something amazing together!
