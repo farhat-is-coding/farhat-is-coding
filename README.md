@@ -8,9 +8,6 @@ I'm a passionate Software Engineer with a knack for developing dynamic and respo
 - Leveraging cloud platforms like **AWS** and **GCP** to deploy and manage applications.
 - Ensuring code quality and smooth collaboration using **Git** and **GitHub**.
 
-## 🌟 My Journey:
-At Beyond Technologies, I led the development of a feature-rich Flutter app, seamlessly integrating it with an Express backend. My role involved everything from designing user interfaces to optimizing database queries and setting up CI/CD pipelines. I also explored cross-platform development frameworks like React Native and Xamarin, constantly seeking the best tools to enhance user experiences.
-
 ## 🔧 Skills & Technologies:
 - **Languages**: TypeScript, JavaScript, Java
 - **Frontend**: React.js, Next.js, Flutter
