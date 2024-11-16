@@ -1,33 +1,18 @@
-# Hi, I'm Farhat Abbas! 👋
+# 👋 Hi, I'm **Farhat Abbas**
 
-I'm a passionate Software Engineer with a knack for developing dynamic and responsive web and mobile applications. With extensive experience in full stack development, I thrive on creating seamless user experiences and robust backend solutions.
+### Full Stack Developer | Web & Mobile Enthusiast  
 
-## 🚀 What I Do:
-- Crafting intuitive and interactive UIs with **React.js** and **Flutter**.
-- Building scalable and efficient backend services with **Node.js** and **Spring Boot**.
-- Leveraging cloud platforms like **AWS** and **GCP** to deploy and manage applications.
-- Ensuring code quality and smooth collaboration using **Git** and **GitHub**.
+🌍 **Location:** Islamabad, Pakistan 🇵🇰  
+🎓 **Education:** Graduate of Air University  
+💼 **Experience:** 5-6 years creating high-performance, user-centric applications across web and mobile platforms.  
 
-## 🔧 Skills & Technologies:
-- **Languages**: TypeScript, JavaScript, Java
-- **Frontend**: React.js, Next.js, Flutter
-- **Backend**: Node.js, Express.js, Spring Boot
-- **Databases**: PostgreSQL, MySQL, MongoDB, Firebase
-- **Cloud**: AWS (DynamoDB, RDS, S3), GCP, Stripe, Twilio
-- **Tools**: Docker, Git, GitHub, JIRA
-
-## 📚 Continuous Learning:
-I believe in continuous learning and staying updated with the latest trends in technology. I'm always experimenting with new frameworks and tools to deliver the best solutions.
-
-## 🌐 Professional Projects & Contributions:
-- [Venminder](https://www.venminder.com): Vendor risk management platform using Java, Spring Boot, React, and Next.js.
-- [Equifax](https://www.equifax.com): Enhanced consumer credit information platform with Java, Spring Boot, Next.js, and more.
-
-## 💬 Get in Touch:
-I'm always open to discussing new projects, collaborations, or just chatting about tech. Feel free to reach out!
-
-📧 [farhat.abbas3500@gmail.com](mailto:farhat.abbas3500@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/farhat-abbas)
+I specialize in delivering robust, scalable, and innovative solutions that seamlessly integrate AI, data analytics, and third-party services to enhance functionality. My work combines the latest technologies with a passion for creating impactful user experiences.
 
 ---
 
-Let's build something amazing together!
+### 📫 **Get in Touch**  
+
+💌 **Email:** [farhat.abbas3500@gmail.com](mailto:farhat.abbas3500@gmail.com)  
+🔗 **Portfolio:** [farhat-portfolio.vercel.app](https://farhat-portfolio.vercel.app)  
+💻 **GitHub:** [github.com/farhat-is-coding](https://github.com/farhat-is-coding)  
+🌐 **LinkedIn:** [linkedin.com/in/farhat-abbas](https://linkedin.com/in/farhat-abbas)  
