@@ -13,6 +13,6 @@ I specialize in delivering robust, scalable, and innovative solutions that seaml
 ### 📫 **Get in Touch**  
 
 💌 **Email:** [farhat.abbas3500@gmail.com](mailto:farhat.abbas3500@gmail.com)  
-🔗 **Portfolio:** [farhat-portfolio.vercel.app](https://farhat-portfolio.vercel.app)  
+🔗 **Portfolio:** [farhat-abbas.me](https://farhat-abbas.me)  
 💻 **GitHub:** [github.com/farhat-is-coding](https://github.com/farhat-is-coding)  
 🌐 **LinkedIn:** [linkedin.com/in/farhat-abbas](https://linkedin.com/in/farhat-abbas)  
