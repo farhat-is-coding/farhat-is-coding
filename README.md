@@ -1,12 +1,12 @@
 # 👋 Hi, I'm **Farhat Abbas**
 
-### Full Stack Developer | Web & Mobile Enthusiast  
+### Full Stack Developer  
 
 🌍 **Location:** Islamabad, Pakistan 🇵🇰  
 🎓 **Education:** Graduate of Air University  
 💼 **Experience:** 5-6 years creating high-performance, user-centric applications across web and mobile platforms.  
 
-I specialize in delivering robust, scalable, and innovative solutions that seamlessly integrate AI, data analytics, and third-party services to enhance functionality. My work combines the latest technologies with a passion for creating impactful user experiences.
+Software engineer with over 5 years of experience leading and developing diverse engineering teams (onsite, remote, and offshore). I’ve focused on building scalable product architecture, streamlining agile processes (Scrum/Kanban), and managing product suite.
 
 ---
 
